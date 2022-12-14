@@ -1,1 +1,2 @@
-# fylo
+# Coding Academy
+## Vue Frontend Starter
